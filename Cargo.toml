@@ -1,0 +1,12 @@
+[package]
+name = "rflog-parser"
+license = "	AGPL-3.0-or-later"
+keywords = ["riverfall", "log", "parser", "minecraft"]
+repository = "https://github.com/riverfallmc/rflog-parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.97"
+chrono = "0.4.40"
+regex = "1.11.1"
